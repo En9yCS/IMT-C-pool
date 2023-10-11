@@ -8,7 +8,7 @@ int clearNthBit(int num, int n) {
 int main() {
     int num, n, result;
     
-    printf("Enter a number: ");
+    printf("Enter any number: ");
     scanf("%d", &num);
     
     printf("Enter the position of the bit to clear (0-indexed): ");
